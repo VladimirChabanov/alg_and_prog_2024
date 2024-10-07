@@ -4,6 +4,7 @@
 - **Задачи №2: https://contest.yandex.ru/contest/68158/problems/**
 - **Задачи №3: https://contest.yandex.ru/contest/68602/problems/**
 - **Задачи №4: https://contest.yandex.ru/contest/69023/problems/**
+- **Задачи №5: https://contest.yandex.ru/contest/69202/problems/**
 
 <br>
 
