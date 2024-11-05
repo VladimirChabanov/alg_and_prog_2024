@@ -8,6 +8,7 @@
 - **Задачи №6: https://contest.yandex.ru/contest/69569/problems/**
 - **Задачи №7: https://contest.yandex.ru/contest/69968/problems/**
 - **Задачи №8: https://contest.yandex.ru/contest/70345/problems/**
+- **Задачи №9: https://contest.yandex.ru/contest/70682/problems/**
 
 <br>
 
