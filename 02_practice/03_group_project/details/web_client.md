@@ -1,3 +1,0 @@
-## Web клиент
-
-Coming soon

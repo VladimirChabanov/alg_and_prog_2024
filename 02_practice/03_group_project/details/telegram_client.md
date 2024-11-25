@@ -1,3 +1,0 @@
-## Telegram клиент
-
-Coming soon
