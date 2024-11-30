@@ -1903,7 +1903,7 @@ struct SomeClass{
        main.o: main.cpp print.h sum.h
        	g++ -c main.cpp
        
-       print.o: print.cpp sum.h
+       print.o: print.cpp print.h
        	g++ -c print.cpp
        
        sum.o: sum.cpp sum.h
@@ -1925,7 +1925,7 @@ struct SomeClass{
      main.o: main.cpp print.h sum.h
      	g++ -c $<
      
-     print.o: print.cpp sum.h
+     print.o: print.cpp print.h
      	g++ -c $<
      
      sum.o: sum.cpp sum.h
