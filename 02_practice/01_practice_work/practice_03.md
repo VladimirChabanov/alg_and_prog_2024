@@ -2,7 +2,6 @@
 
 **Цели:**
 
-- Научится управлять зависимостями приложения при помощи менеджера пакетов;
 - Изучить систему управления версиями git;
 
 ## Система контроля версий git
@@ -2039,34 +2038,26 @@ git commit -m "..." --author="..." --date="..."
 
 <br>
 
-## Работа с удалённым git репозиторием. GitHub
+## Источники
 
+**Материалы по git:**
 
+- Pro Git 2nd Edition: https://git-scm.com/book/ru/v2;  
+  *Официальная книга по git (перевод на русский).*
+- Git: курс: https://youtube.com/playlist?list=PLDyvV36pndZFHXjXuwA_NywNrVQO0aQqb&si=mvt79WcKR_UlEGTP;  
+  *Хороший, слегка "продвинутый" видеокурс по Git*.
+- Git: разное: https://www.youtube.com/playlist?list=PLDyvV36pndZEB7kWWocU4QSn-G78LoaEE;  
+  *Продолжение предыдущего курса.*
+- Шпаргалка по консольным командам Git: https://github.com/cyberspacedk/Git-commands.
 
+**Материалы по стратегиям ветвления:**
 
-<br>
+- Простая модель ветвления git (a simple git branching model): https://gist.github.com/shvechikov/7876564;
 
-## Источники и ссылки
+- Gitflow (удачная модель ветвления для Git): https://habr.com/ru/articles/106912/;
 
-- Pro Git 2nd Edition: https://git-scm.com/book/ru/v2
+- GitHub Flow: https://habr.com/ru/articles/346066/;
 
-  *Официальная книга по git (перевод на русский)*
+- Trunk Based Development — кто такой и зачем нужен: https://habr.com/ru/companies/avito/articles/680522/;
 
-- Git: курс: https://youtube.com/playlist?list=PLDyvV36pndZFHXjXuwA_NywNrVQO0aQqb&si=mvt79WcKR_UlEGTP
-
-  *Хороший, слегка "продвинутый" видеокурс по Git*
-
-- Удачная модель ветвления для Git: https://habr.com/ru/articles/106912/
-
-  *Про модель ветвления gitflow*
-
-- a simple git branching model: https://gist.github.com/shvechikov/7876564
-
-- GitHub Flow: https://habr.com/ru/articles/346066/
-
-- Стратегия ветвления ThreeFlow: https://habr.com/ru/companies/infopulse/articles/345826/
-
-- Trunk Based Development — кто такой и зачем нужен: https://habr.com/ru/companies/avito/articles/680522/
-
-- https://github.com/cyberspacedk/Git-commands
-
+- Стратегия ветвления ThreeFlow: https://habr.com/ru/companies/infopulse/articles/345826/.
